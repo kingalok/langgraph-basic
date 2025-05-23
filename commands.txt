@@ -1,0 +1,6 @@
+PS C:\Users\Alok\Downloads\MyRepo> cd .\langgraph-basic\
+PS C:\Users\Alok\Downloads\MyRepo\langgraph-basic> python -m venv .venv 
+PS C:\Users\Alok\Downloads\MyRepo\langgraph-basic> .\.venv\Scripts\activate
+PS C:\Users\Alok\Downloads\MyRepo\langgraph-basic> Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+PS C:\Users\Alok\Downloads\MyRepo\langgraph-basic> .\.venv\Scripts\activate
+(.venv) PS C:\Users\Alok\Downloads\MyRepo\langgraph-basic> 
